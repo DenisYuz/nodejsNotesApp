@@ -1,0 +1,28 @@
+{
+  "name": "notesapp",
+  "version": "1.0.0",
+  "description": "\"my awsome notes app\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DenisYuz/nodejsNotesApp.git"
+  },
+  "keywords": [
+    "nodejs",
+    "notes",
+    "app",
+    "notesapp"
+  ],
+  "author": "Denis Yuzhelevsky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DenisYuz/nodejsNotesApp/issues"
+  },
+  "homepage": "https://github.com/DenisYuz/nodejsNotesApp#readme",
+  "dependencies": {
+    "yargs": "^16.2.0"
+  }
+}
